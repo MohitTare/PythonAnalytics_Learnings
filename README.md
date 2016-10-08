@@ -12,7 +12,7 @@ https://github.com/ujjwalkarn/
 **Gallery of Interesting Data Science Jupyter Notebooks** (Contains Repository Links for many jupyter notebooks covering most of ML Algorithms on Python Pydata Toolstack)
 https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks, https://github.com/nborwankar/LearnDataScience https://github.com/donnemartin/data-science-ipython-notebooks
 
-**Blogs on a short course for Data analysis in Python** (Contains techniques used in Data Analysis primary focus on Statistics using Scipy) http://hamelg.blogspot.in/2015/12/python-for-data-analysis-index.html?view=timeslide
+**Blog on a short course for Data analysis in Python** (Contains techniques used in Data Analysis primary focus on Statistics using Scipy) http://hamelg.blogspot.in/2015/12/python-for-data-analysis-index.html?view=timeslide
 
 **Statistics using Python** ( List of links to learn Statistics using Python)
 https://github.com/rouseguy/intro2stats http://ipython-books.github.io/cookbook/#chapter-7-statistical-data-analysis http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/ https://people.duke.edu/~ccc14/sta-663/index.html
@@ -25,7 +25,7 @@ Fitting Distributions in R http://stats.stackexchange.com/questions/132652/how-t
 
 **Learning Pandas** http://www.dataschool.io/best-python-pandas-resources/
 
-**ScikitLearn & ML Intoruductory Video Tutorial** https://www.youtube.com/watch?v=L7R4HUQ-eQ0
+**ScikitLearn & ML Introductory Video Tutorial** https://www.youtube.com/watch?v=L7R4HUQ-eQ0
 
 
 
